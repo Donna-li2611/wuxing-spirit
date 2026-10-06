@@ -1,5 +1,7 @@
 # Wuxing Spirit · 五行灵契
 
+**A self-directed personal project, initiated and developed by Xiaozhen Li (Donna).** I carry out the project's design, research and development myself, using AI tools in the workflow.
+
 **An exploratory interaction prototype connecting discovery, care and everyday companionship.**
 
 The concept uses an Eastern-fantasy world and a short care loop: discover a companion, form a bond, care for it and see it grow. A camera view with two-dimensional characters is used to explore lightweight AR-like interaction.
@@ -31,6 +33,8 @@ The health-behaviour ideas are game mechanics to explore, not demonstrated healt
 ---
 
 ## 中文说明
+
+**这是我个人独立开展的项目，构思、设计、研究、制作与已有成果均由我本人完成，过程中使用AI工具辅助。**
 
 # 五行灵契 · Wuxing Spirit
 
