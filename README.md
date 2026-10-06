@@ -1,3 +1,37 @@
+# Wuxing Spirit · 五行灵契
+
+**An exploratory interaction prototype connecting discovery, care and everyday companionship.**
+
+The concept uses an Eastern-fantasy world and a short care loop: discover a companion, form a bond, care for it and see it grow. A camera view with two-dimensional characters is used to explore lightweight AR-like interaction.
+
+## Design question
+
+Can a clear discovery-and-care loop create a sense of companionship, and which parts of the experience need phone testing before further development?
+
+## My contribution
+
+I define the experience concept and core loop, make scope and interaction choices, review prototype behaviour, and identify the next questions to validate. Code and asset exploration are AI-assisted.
+
+## Evidence to review
+
+- [Product and gameplay](docs/product.md): the existing loop and prototype features.
+- [Design decisions](docs/decisions.md): 2D scope, permissions and fallback behaviour.
+- [Validation plan](docs/validation-plan.md): questions for phone-based testing.
+- [Prototype code guide](prototype/README.md): source snapshots for reading.
+- [Game loop](design/game-loop.md): defined content and remaining boundaries.
+
+**Current stage: exploratory prototype.** The public repository contains design materials and code excerpts, without the full visual asset package or deployment project. It is not a complete runnable release. Systematic user testing, retention outcomes, native spatial AR and health-data integration remain unverified or unimplemented.
+
+The health-behaviour ideas are game mechanics to explore, not demonstrated health benefits.
+
+[Portfolio home](https://github.com/Donna-li2611)
+
+**README reviewed: 2026-10-06.**
+
+---
+
+## 中文说明
+
 # 五行灵契 · Wuxing Spirit
 
 **在现实环境中寻找伙伴，通过结契、照料与成长建立日常陪伴。**
